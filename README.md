@@ -1,41 +1,27 @@
-# Project Title
-
-Simple overview of use/purpose.
+# Avalanche-Module-01
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+In this project we will be creating a custom subnet using Avalanche-CLI
 
 ## Getting Started
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* Install AVALANCHE-CLI
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+* Create and Deploy the subnet 
 
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+Watch the tutorials properly 
 
 ## Authors
 
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
+Vaishnavi Deogade 
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the [MIT] License - see the LICENSE.md file for details
